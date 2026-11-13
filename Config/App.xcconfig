@@ -1,0 +1,5 @@
+// Base configuration for the MovieDemo app target.
+// TMDB_API_KEY is empty by default so a clean checkout still generates and builds.
+// Copy Config/Secrets.example.xcconfig to Config/Secrets.xcconfig and add your key.
+TMDB_API_KEY =
+#include? "Secrets.xcconfig"
