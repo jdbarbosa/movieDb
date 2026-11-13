@@ -69,11 +69,3 @@ The `MovieDemo` scheme runs the app-level tests and every package's tests in
 one go. The UIKit-free packages (`Locator`, `Models`, `APIClient`,
 `AnalyticsClient`) also run with `swift test` from their own folder.
 
-## Design docs
-
-- `docs/superpowers/specs/2026-10-23-moviedemo-architecture-design.md`
-- `docs/superpowers/plans/2026-10-23-moviedemo.md`
-- `docs/superpowers/specs/2026-10-28-tabs-and-my-movies-design.md`
-- `docs/superpowers/plans/2026-10-28-tabs-and-my-movies.md`
-- `docs/superpowers/specs/2026-10-28-local-collections-design.md`
-- `docs/superpowers/plans/2026-10-28-local-collections.md`
